@@ -5,7 +5,7 @@ package.domain = org.example
 source.dir = .
 source.include_exts = py
 version = 0.1
-requirements = python3,pygame
+requirements = python3==3.11.5,hostpython3==3.11.5,pygame
 orientation = landscape
 fullscreen = 1
 android.api = 34
